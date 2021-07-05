@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rakesh Kumar
 - 👀 I’m interested in the field of Robotics and Controls
-- 🌱 Im currently undergoing Bachelors Degree in Mechatronics 
-- 💞️ I’m would always like to enhance my field of knowledge
+- 🌱 I'm currently undergoing Bachelors Degree in Mechatronics 
+- 💞️ I always like to enhance my field of knowledge
 - 📫 You can reach me via : crazyrake003@gmail.com
 
 <!---
